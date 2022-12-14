@@ -1,4 +1,8 @@
-# 💫 About Me: Hello, <br><br>I work as a frontend developer in the software world :) I've been coding with vue.js and nuxt.js for 3 years, and I've been coding with react.js as well. I made about 10 projects as frontend dev. These projects are e-commerce, udemy, tracking management, appointment system, delivery system, real estate system and more. Although I have been writing code for 3 years, I have worked on very complex projects, and I also took part in project development in all of these projects. I can code with node.js as backend dev futhermore I've tried read text on image with tesseract you can find on my repositories.    
+# 💫 About Me: 
+
+Hello, 
+
+<br><br>I work as a frontend developer in the software world :) I've been coding with vue.js and nuxt.js for 3 years, and I've been coding with react.js as well. I made about 10 projects as frontend dev. These projects are e-commerce, udemy, tracking management, appointment system, delivery system, real estate system and more. Although I have been writing code for 3 years, I have worked on very complex projects, and I also took part in project development in all of these projects. I can code with node.js as backend dev futhermore I've tried read text on image with tesseract you can find on my repositories.    
 
 ## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gurhanarslann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gurhanarslan)  
